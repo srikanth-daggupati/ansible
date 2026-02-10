@@ -1,0 +1,19 @@
+            {
+                "first_name": "Srikanth",
+                "dob": "2000-01-01",
+                "addresses": [
+                    {
+                        "type": "prem",
+                        "flatNumber": 1,
+                        "street": "Georgia Street",
+                        "city": "USA"
+                    },
+                    {
+                        "type": "current",
+                        "flatNumber": 1,
+                        "street":"Georgia Street",
+                        "city":"USA"
+                    }
+                ],
+                "skills": ["Java", "Python", "DevOps"],
+            }

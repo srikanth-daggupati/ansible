@@ -1,0 +1,24 @@
+<!-- Student Object -->
+<student>
+    <FirstName>Srikanth</FirstName>
+    <DOB>2000-01-01</DOB>
+    <Email>srikanthdaggupati@gmail.com</Email>
+    <!-- <adress>1075 Georgia Street USA<adress> -->
+    <!-- <adress> -->
+         <FlatNumber>1075</FlatNumber>
+         <Street>Georgia Street</Street>
+         <City>USA</City>
+    <!--</adress>-->
+    <addresses>
+        <Premaddress>
+            <FlatNumber>1</FlatNumber>
+            <Street>Georgia Street</Street>
+            <City>USA</City>
+        </Premaddress>
+        <Currentaddress>
+            <FlatNumber>1</FlatNumber>
+            <Street>Georgia Street</Street>
+            <City>USA</City>
+        </Currentaddress>
+    </addresses>
+</student>

@@ -1,0 +1,27 @@
+- name: "srikanth"
+  dob: "2000-01-01"
+  mobileNumber: 1234567890
+  address:
+  - flatNumber: "1"
+    street: "Georgia street"
+    city: "USA"
+    type: current
+  - flatNumber: "1"
+    street: "Georgia street"
+    city: "USA"
+    type: perm
+
+- name: "ramesh"
+  dob: "2000-01-01"
+  mobileNumber: 1234567890
+  address:
+  - flatNumber: "1"
+    street: "Georgia street"
+    city: "USA"
+    type: 
+  - flatNumber: "1"
+    street: "Georgia street"
+    city: "USA"
+    type: perm
+
+    
